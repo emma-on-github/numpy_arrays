@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 # Example 1
 
 # import numpy
@@ -70,10 +64,4 @@ plt.imshow(rgb)
 
 # display the plot
 plt.show()
-
-
-# In[ ]:
-
-
-
 
