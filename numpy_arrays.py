@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[1]:
+
+
 # Example 1
 
 # import numpy
@@ -8,6 +14,15 @@ np.random.random((2,4))
 
 
 # Example 2
+
+# import numpy
+import numpy as np
+
+# create an array using numpy module zeros, specifying shape of array - 7 rows, 5 columns
+np.zeros((7,5))
+
+
+# Example 3
 
 # import numpy and pyplot
 import numpy as np
@@ -21,7 +36,7 @@ plt.scatter(np.arange(0, 7),
 plt.show()
 
 
-# Example 3
+# Example 4
 
 # import numpy and pyplot
 import numpy as np
@@ -39,7 +54,7 @@ plt.imshow(rgb)
 plt.show()
 
 
-#Example 4
+#Example 5
 
 # import numpy and pyplot
 import numpy as np
@@ -55,4 +70,10 @@ plt.imshow(rgb)
 
 # display the plot
 plt.show()
+
+
+# In[ ]:
+
+
+
 
