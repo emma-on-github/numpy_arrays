@@ -6,4 +6,4 @@ I recently completed an Introduction to NumPy course.  Within this simple progra
 
 Thank you.
 
-Paul
+Emma
